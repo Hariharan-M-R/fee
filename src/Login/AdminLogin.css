@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f2f2f2;
+  }
+  
+  .floating-box {
+    width: 450px;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  .heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  form label {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+  }
+  
+  label {
+    margin-bottom: 10px;
+  }
+  
+  input {
+    padding: 12px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    padding: 14px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .register-link {
+    margin-top: 15px;
+    text-align: center;
+  }
+  
+  .register-link a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .register-link a:hover {
+    text-decoration: underline;
+  }
+  .email{
+    font-weight: bold;
+  }
+.pass{
+  font-weight: bold;
+}
+.cpassword{
+  font-weight: bold;
+}

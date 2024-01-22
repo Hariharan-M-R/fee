@@ -1,0 +1,33 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo img {
+    height: 40px;
+    margin-right: 10px;
+  }
+  
+  .logo span {
+    font-size: 18px;
+  }
+  
+  .navbar ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar li {
+    margin: 0 10px;
+    cursor: pointer;
+    font-size: 18px;
+  }

@@ -1,0 +1,41 @@
+
+.add-feedetails {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .add-feedetails h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .add-feedetails label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .add-feedetails input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+  
+  .add-feedetails button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .add-feedetails button:hover {
+    background-color: #45a049;
+  }
+  

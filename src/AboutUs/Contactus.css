@@ -1,0 +1,64 @@
+.main {
+    text-align: center;
+    max-width: 800px; 
+    margin: 0 auto;
+}
+
+.logoimg {
+    padding: 40px;
+    max-width: 100%;
+    height: auto;
+}
+
+.heading1, .heading2 {
+    color: black;
+    text-align: center;
+}
+
+.college-details {
+    font-weight: bold;
+    padding: 10px;
+    
+}
+.college-details p{
+    color: black;
+}
+.contact-details-inner p{
+    color: black;
+}
+
+.phone-number {
+    font-weight: bold;
+}
+.contact-details-inner{
+    padding-bottom: 110px;
+}
+
+.main {
+    text-align: center;
+    max-width: 800px; 
+    margin: 0 auto;
+}
+
+.logoimg {
+    padding: 40px;
+    max-width: 100%;
+    height: auto;
+}
+
+.heading1, .heading2 {
+    color: black;
+    text-align: center;
+}
+
+.college-details {
+    font-weight: bold;
+    padding: 10px;
+}
+
+.phone-number {
+    font-weight: bold;
+}
+.contact-details-inner{
+    padding-bottom: 110px;
+}
